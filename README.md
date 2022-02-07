@@ -1,4 +1,3 @@
-# Part 3
 The program classifies hotel reviews as real or fake using a Bayes Net classifier. It does this by calculating 
 the probabilities P(class|words) = P(class|word_1) * P(class|word_2) * ... P(class|word_n) for each class
 and classifying a review to the class with the highest probability. 
